@@ -64,7 +64,7 @@ export const projectsData = [
   {
     title: "Edusity",
     description:
-      "I used react and node to create this projet. It is a platform for students to learn and teachers to teach.",
+      "I used react and node to create this project. It is a platform for students to learn and teachers to teach.",
     tags: ["React", "Node.js", "MongoDB", "Tailwind", "Prisma"],
     imageUrl: corpcommentImg,
   },
