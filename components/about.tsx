@@ -20,10 +20,9 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         Hi, I’m <span className="font-bold">Nithesh</span>, a passionate web
-        developer with expertise in{" "}
+        developer and web3 enthusiast with expertise in{" "}
         <span className="font-bold">
-          HTML, CSS, JavaScript, React, Next.js, MongoDB, Firebase, Generative
-          AI,
+          React, Next.js, MongoDB, Firebase, Generative AI,
         </span>{" "}
         and <span className="font-bold">UI/UX design</span>. I’m currently
         studying at{" "}
