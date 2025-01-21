@@ -48,6 +48,7 @@ export default function Contact() {
 
   return (
     <motion.section
+      //@ts-ignore
       id="contact"
       className="mb-20 sm:mb-28 w-[min(100%,38rem)] text-center"
       initial={{
