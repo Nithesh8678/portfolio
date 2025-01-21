@@ -44,9 +44,9 @@ export const experiencesData = [
   },
   {
     title: "Work",
-    location: "Tron, London",
+    location: "Ledger, London",
     description:
-      "Currently working as a front-end development engineer at Tron. Working to make usdt transactions possible through ethereum",
+      "Currently working as a junior web developer at Ledger. Working on the ledger books project.",
     icon: React.createElement(CgWorkAlt),
     date: "2024 - present",
   },
@@ -54,7 +54,7 @@ export const experiencesData = [
     title: "Full-Stack Developer",
     location: "Chennai, India",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "I'm now a full-stack developer and web3 enthusiast working as a freelancer and a part time developer at Spynad marketing agency. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
     date: "2022 - present",
   },
@@ -62,10 +62,10 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Edusity",
+    title: "Find&Earn",
     description:
-      "I used react and node to create this project. It is a platform for students to learn and teachers to teach.",
-    tags: ["React", "Node.js", "MongoDB", "Tailwind", "Prisma"],
+      "Used the power of web3 to make a platform where users can find lost items and earn money by finding them. A real world playfield for bounty hunters",
+    tags: ["React", "Node.js", "Solidity", "Framer", "Hardhat"],
     imageUrl: corpcommentImg,
   },
   {
@@ -76,9 +76,9 @@ export const projectsData = [
     imageUrl: wordanalyticsImg,
   },
   {
-    title: "AI Story Generator",
+    title: "LedgerBooks",
     description:
-      "A web app that generates stories based on user input. It uses OpenAI's GPT-3 to generate the stories. It can generate stories in multiple genres.",
+      "A place where all the transactions of major chains are recorded and stored in a secure manner. It is a blockchain based ledger.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: rmtdevImg,
   },
@@ -104,4 +104,8 @@ export const skillsData = [
   "Python",
   "Django",
   "Framer Motion",
+  "Hardhat",
+  "Ethersjs",
+  "Cassandra",
+  "Docker",
 ] as const;
